@@ -1,7 +1,6 @@
-# souvenir-memoir
 
 
-This website was developed using MERN stack. Different React hooks were used during the development. [Live Preview](https://souvenir-memoirs.netlify.app)
+An website where you can share your precious memory with others. [Live Preview](https://souvenir-memoirs.netlify.app)
 
 ![image](/ProductionImage/prod.JPG)
 
